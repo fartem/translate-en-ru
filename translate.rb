@@ -30,4 +30,6 @@ when 402
   puts 'Blocked API key'
 when 403
   puts 'Exceeded the daily limit on the amount of translated text'
+else
+  puts "Unknown response code: #{response_code}"
 end
