@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 2.6
+
+before_install:
+  - gem install whatlanguage
+  - gem install rubocop
+
+script:
+  - rubocop
