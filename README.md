@@ -24,7 +24,7 @@ $ gem install whatlanguage
 $ export YANDEX_TRANSLATE_KEY=YOUR_YANDEX_TRANSLATE_KEY
 ```
 
-4. run from shell:
+4. run from shell in project folder:
 
 ```shell
 $ ./translate YOUR_TEXT
