@@ -6,7 +6,7 @@ Script for translating words/sentences from English to Russian and vice versa wi
 
 1. install [Git](https://git-scm.com/) and [Ruby](https://www.ruby-lang.org/en/);
 
-2. Clone repository:
+2. clone repository:
 
 ```shell
 $ git clone https://github.com/fartem/translate-en-ru
