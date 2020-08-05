@@ -1,5 +1,9 @@
 # translate-en-ru
 
+[![Travis CI](https://travis-ci.org/fartem/translate-en-ru.svg?branch=master)](https://travis-ci.org/fartem/translate-en-ru.svg?branch=master)
+
+## About
+
 Script for translating words/sentences from English to Russian and vice versa with [Yandex.Translate API](https://tech.yandex.com/translate/).
 
 ## How to run
