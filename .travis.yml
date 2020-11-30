@@ -1,9 +1,0 @@
-language: ruby
-rvm:
-  - 2.7
-
-before_install:
-  - gem i whatlanguage rubocop
-
-script:
-  - rubocop

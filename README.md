@@ -1,6 +1,6 @@
 # translate-en-ru
 
-[![Travis CI](https://travis-ci.org/fartem/translate-en-ru.svg?branch=master)](https://travis-ci.org/fartem/translate-en-ru)
+[![GitHubActions](https://github.com/fartem/translate-en-ru/workflows/Ruby/badge.svg)](https://github.com/fartem/translate-en-ru/actions?query=workflow%3ARuby)
 
 ## About
 
